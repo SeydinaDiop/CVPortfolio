@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seydinadiop.github.io/CVPortfolio/sitemap.xml
