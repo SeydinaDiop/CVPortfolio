@@ -391,20 +391,30 @@ p {
 
 .tool-card img {
   aspect-ratio: 16 / 9;
-  max-height: 150px;
+  height: 104px;
+  max-height: 104px;
+  object-fit: contain;
+  object-position: center;
+  background: rgba(255, 255, 255, 0.96);
+  padding: 0.55rem;
 }
 
 .tool-card .project-content {
-  padding: 1rem 1rem 1.1rem;
+  padding: 0.75rem 0.85rem 0.9rem;
 }
 
 .tool-card h3 {
-  font-size: 1.12rem;
+  font-size: 0.96rem;
 }
 
 .tool-card p {
-  font-size: 0.92rem;
-  line-height: 1.6;
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+
+.tool-card .project-label {
+  margin-bottom: 0.38rem;
+  font-size: 0.64rem;
 }
 
 .contact-grid {
@@ -486,6 +496,20 @@ p {
   width: 100%;
   height: 180px;
   object-fit: cover;
+}
+
+.project-card-wifi img {
+  object-fit: contain;
+  object-position: center;
+  background: rgba(8, 17, 32, 0.9);
+  padding: 0.6rem;
+}
+
+.project-card-aws img {
+  object-fit: contain;
+  object-position: center;
+  background: #ffffff;
+  padding: 0.8rem;
 }
 
 .project-content {

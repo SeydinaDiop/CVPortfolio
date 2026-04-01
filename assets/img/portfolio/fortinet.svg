@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Fortinet</title>
+  <desc id="desc">Visuel Fortinet</desc>
+  <rect width="640" height="360" fill="#fff7f7"/>
+  <rect x="60" y="70" width="520" height="220" rx="28" fill="#ffffff" stroke="#e5e7eb" stroke-width="4"/>
+  <g fill="#ee3124">
+    <rect x="145" y="125" width="52" height="52" rx="8"/>
+    <rect x="205" y="125" width="52" height="52" rx="8"/>
+    <rect x="265" y="125" width="112" height="52" rx="8"/>
+    <rect x="385" y="125" width="52" height="52" rx="8"/>
+    <rect x="445" y="125" width="52" height="52" rx="8"/>
+  </g>
+  <text x="320" y="235" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#111827">FORTINET</text>
+</svg>

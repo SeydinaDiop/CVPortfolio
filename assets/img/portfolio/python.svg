@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Python</title>
+  <desc id="desc">Visuel Python</desc>
+  <rect width="640" height="360" fill="#f8fafc"/>
+  <g transform="translate(170 85)">
+    <path d="M106 0c-54 0-50 23-50 23v33h99v10H17S0 63 0 116c0 53 15 51 15 51h29v-40s-2-48 48-48h81s45 1 45-43V24S225 0 171 0h-65zm-8 25a10 10 0 1 1 0 20 10 10 0 0 1 0-20z" fill="#3776ab"/>
+    <path d="M112 220c54 0 50-23 50-23v-33H63v-10h138s17 3 17-50c0-53-15-51-15-51h-29v40s2 48-48 48H45S0 140 0 183v13s-7 24 47 24h65zm8-25a10 10 0 1 1 0-20 10 10 0 0 1 0 20z" fill="#ffd43b"/>
+  </g>
+  <text x="320" y="305" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#111827">PYTHON</text>
+</svg>
