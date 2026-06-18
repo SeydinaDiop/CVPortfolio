@@ -1,0 +1,25 @@
+{
+  "name": "cv-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Seydina DIOP - Cybersecurity & Network Administration student",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'Static site - no build required'",
+    "lint": "echo 'No linter configured'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeydinaDiop/CVPortfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "cybersecurity",
+    "static-site"
+  ],
+  "author": "Seydina DIOP",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
